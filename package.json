@@ -12,8 +12,19 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "gulp": "^5.0.1",
+    "gulp": "^4.0.2",
     "gulp-sass": "^6.0.1",
     "sass": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlenerM/site-Restaurante.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GlenerM/site-Restaurante/issues"
+  },
+  "homepage": "https://github.com/GlenerM/site-Restaurante#readme",
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0"
   }
 }
